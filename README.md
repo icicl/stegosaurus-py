@@ -2,4 +2,4 @@
 Steganography in python using Pillow
 
 ##
-NOTE: Due to the method by which I embed the metadata, this is not as secure as it could ideally be. This could be exploited to reduce this time it would take to hack a password.
+NOTE: Due primarily to the method by which I embed the metadata, this is not as secure as it could ideally be. This could be exploited to reduce this time it would take to hack a password.
